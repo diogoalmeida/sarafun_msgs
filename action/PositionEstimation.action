@@ -1,0 +1,9 @@
+geometry_msgs/PoseStamped obj_b
+#int16 selected_grasp_index
+int16 idx
+---
+geometry_msgs/PoseStamped est_eef
+string info
+---
+
+

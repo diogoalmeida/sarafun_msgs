@@ -1,0 +1,9 @@
+# Get RGB-Depth , Point cloud, camera info from a sensor
+
+string sensor_name                      # Camera that will be used
+bool has_point_ploud  			# Is point cloud needed?
+---
+sensor_msgs/Image rgb			# RGB frame
+sensor_msgs/Image depth			# Depth frame
+sensor_msgs/PointCloud2 point_cloud	# Point Cloud frame
+sensor_msgs/CameraInfo  camera_info	# Cameras Info

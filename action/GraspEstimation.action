@@ -1,0 +1,9 @@
+geometry_msgs/PoseStamped obj_a
+
+---
+
+geometry_msgs/PoseStamped[] est_grasps
+geometry_msgs/PoseStamped[] est_pre_grasps
+geometry_msgs/PoseStamped[] est_pickups
+string info
+---

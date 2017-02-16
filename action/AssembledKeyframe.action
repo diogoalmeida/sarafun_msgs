@@ -1,0 +1,6 @@
+int32 idx
+---
+int16 result
+int16 SUCCESS=0
+int16 FAILURE=1
+---

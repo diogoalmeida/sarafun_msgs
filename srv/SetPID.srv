@@ -1,0 +1,4 @@
+int32 pid_mode
+float32[] pid_scales
+---
+bool result
