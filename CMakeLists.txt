@@ -39,6 +39,7 @@ add_action_files(FILES
 						InitialKeyframe.action
 						GraspKeyframe.action
 						PickUpKeyframe.action
+						DeformationKeyframe.action
 						AlignKeyframe.action
 						ContactKeyframe.action
 						AssembledKeyframe.action
